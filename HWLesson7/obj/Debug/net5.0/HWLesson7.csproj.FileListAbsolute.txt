@@ -1,0 +1,16 @@
+D:\HWLEsson\HWLesson7\HWLesson7\HWLesson7\bin\Debug\net5.0\HWLesson7.exe
+D:\HWLEsson\HWLesson7\HWLesson7\HWLesson7\bin\Debug\net5.0\HWLesson7.deps.json
+D:\HWLEsson\HWLesson7\HWLesson7\HWLesson7\bin\Debug\net5.0\HWLesson7.runtimeconfig.json
+D:\HWLEsson\HWLesson7\HWLesson7\HWLesson7\bin\Debug\net5.0\HWLesson7.runtimeconfig.dev.json
+D:\HWLEsson\HWLesson7\HWLesson7\HWLesson7\bin\Debug\net5.0\HWLesson7.dll
+D:\HWLEsson\HWLesson7\HWLesson7\HWLesson7\bin\Debug\net5.0\ref\HWLesson7.dll
+D:\HWLEsson\HWLesson7\HWLesson7\HWLesson7\bin\Debug\net5.0\HWLesson7.pdb
+D:\HWLEsson\HWLesson7\HWLesson7\HWLesson7\obj\Debug\net5.0\HWLesson7.csproj.AssemblyReference.cache
+D:\HWLEsson\HWLesson7\HWLesson7\HWLesson7\obj\Debug\net5.0\HWLesson7.GeneratedMSBuildEditorConfig.editorconfig
+D:\HWLEsson\HWLesson7\HWLesson7\HWLesson7\obj\Debug\net5.0\HWLesson7.AssemblyInfoInputs.cache
+D:\HWLEsson\HWLesson7\HWLesson7\HWLesson7\obj\Debug\net5.0\HWLesson7.AssemblyInfo.cs
+D:\HWLEsson\HWLesson7\HWLesson7\HWLesson7\obj\Debug\net5.0\HWLesson7.csproj.CoreCompileInputs.cache
+D:\HWLEsson\HWLesson7\HWLesson7\HWLesson7\obj\Debug\net5.0\HWLesson7.dll
+D:\HWLEsson\HWLesson7\HWLesson7\HWLesson7\obj\Debug\net5.0\ref\HWLesson7.dll
+D:\HWLEsson\HWLesson7\HWLesson7\HWLesson7\obj\Debug\net5.0\HWLesson7.pdb
+D:\HWLEsson\HWLesson7\HWLesson7\HWLesson7\obj\Debug\net5.0\HWLesson7.genruntimeconfig.cache
